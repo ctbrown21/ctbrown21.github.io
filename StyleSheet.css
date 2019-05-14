@@ -6,9 +6,9 @@ body {
 }
 
 h2 {
-  color: black;
-  top: 2px;
-
+  font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
 }
 
 h1 {
