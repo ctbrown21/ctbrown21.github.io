@@ -1,38 +1,4 @@
-body {
-  height: 100%;
-  margin: 0;
-  text-align: center;
-  width: 100%;
-}
-
-h2 {
-  font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(121,149,117);
-}
-
-h1 {
-
-}
-
-h3 {
-
-}
-
-.main {
-  padding: 250px 0;
-  margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://www.pexels.com/photo/backgrounds-blank-blue-canvas-953214/");
-  background-size: cover;
-  color: #ffffff;
-}
-
-
-p {
-
-}
-
-.main a {
+#header {
+  background-color: #66CCFF;
 
 }
