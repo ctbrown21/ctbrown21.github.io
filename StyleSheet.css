@@ -37,8 +37,9 @@ h6 {
   display: inline;
 }
 
-.col {
+.col1,  {
   margin-right:100px;
+  background-color: red;
 }
 
 footer {
