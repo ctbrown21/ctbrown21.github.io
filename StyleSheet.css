@@ -11,14 +11,11 @@ body {
 }
 
 .header {
-
-}
-
-h1 {
   color: black;
   text-align:center;
   margin-top:60px;
   background-color: grey;
+  font-size:10px;
   
 }
 
