@@ -39,6 +39,10 @@ body {
 
 }
 
+h5 {
+  float: left;
+
+}
 
 h6 {
   float: right;
