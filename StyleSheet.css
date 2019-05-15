@@ -31,7 +31,7 @@ h1 {
   clear: both;
 }
 
-.column {
+.col {
   float: left; 
   width: 33.33%
   padding: 10px;
