@@ -28,8 +28,7 @@ h1, h6 {
 
 
 .row: {
-  display: table;
-  clear: both;
+  display: inline-block;
 }
 
 .col {
