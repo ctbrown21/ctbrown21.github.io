@@ -52,9 +52,7 @@ h6 {
 
 .row {
   margin-top: 200px;
-  display: inline;
-  color: red;
-  border: blue;
+  color: blue;
   background-color: white;
   display: table-cell;
 }
