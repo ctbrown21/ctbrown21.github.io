@@ -57,8 +57,21 @@ h6 {
   display: table-cell;
 }
 
-.col3 {
-  position: right;
+.col1 {
+  position: relative; 
+
+}
+
+
+.col2 {
+  position: relative;
 
 
 }
+
+.col3 {
+  position: relative;
+
+
+}
+
