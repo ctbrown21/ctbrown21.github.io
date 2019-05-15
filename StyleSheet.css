@@ -61,8 +61,8 @@ h6 {
 .col1 {
   position: relative; 
   background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  height: 300px
-  background-size: 300px;
+  height: 300px;
+  background-size: 600px;
 
 
 }
@@ -71,8 +71,8 @@ h6 {
 .col2 {
   position: relative;
   background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  background-size: 300px;
-  height: 300px
+  height: 300px;
+  background-size: 600px;
 
 
 
@@ -81,8 +81,8 @@ h6 {
 .col3 {
   position: relative;
   background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  background-size: 300px;
-  height: 300px
+  background-size: 600px;
+  height: 300px;
 
 
 }
