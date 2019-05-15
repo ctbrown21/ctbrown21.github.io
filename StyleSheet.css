@@ -50,14 +50,17 @@ h6 {
 }
 
 
-.row: {
+.row {
   margin-top: 100px;
   display: inline;
   color: red;
-}
-
-.col {
-  margin-right:100px;
+  border: blue;
   background-color: white;
   display: table-cell;
+}
+
+.col3 {
+  position: right;
+
+
 }
