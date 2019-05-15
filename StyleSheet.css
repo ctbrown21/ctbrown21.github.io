@@ -34,8 +34,12 @@ h1, h6 {
 }
 
 .col {
+<<<<<<< HEAD
   margin-right: 50px;
   margin-top: 200px;
+=======
+  margin-right: 200px;
+>>>>>>> parent of c38e225... Update StyleSheet.css
 }
 
 footer {
