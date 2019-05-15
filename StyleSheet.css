@@ -1,6 +1,5 @@
 body {
   color: black;
-  background-color: grey;
 
 
 }
@@ -9,6 +8,8 @@ body {
   width: 600x;
   margin-left: auto;
   margin-right: auto;
+  background-color: grey;
+
 
 }
 
