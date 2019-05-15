@@ -21,9 +21,11 @@ body {
   border: 5px solid white;
   color: black;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 90px;
   background-color: grey;
   font-size: 60px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+
   
 }
 
@@ -88,8 +90,6 @@ h6 {
 h1, h2, h3 {
   color: grey;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  padding: 250px 0;
-  margin: 30px;
   
 
 
