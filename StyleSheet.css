@@ -29,12 +29,13 @@ h1, h6 {
 
 
 .row: {
-  display: block;
+  display: inline-block;
   margin-top: 50px;
 }
 
-.col {
+.col1 {
   float: left; 
+  margin: 200px;
 }
 
 footer {
