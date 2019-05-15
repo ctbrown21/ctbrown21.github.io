@@ -25,9 +25,15 @@ h1 {
 }
 
 .content {
+<<<<<<< HEAD
   margin-top: 20px;
+=======
+background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+}
+}
+>>>>>>> parent of 224b7fa... Update StyleSheet.css
+
 
 footer {
-
 
 }
