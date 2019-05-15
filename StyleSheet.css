@@ -49,9 +49,9 @@ h6 {
 
 
 .row {
-  column-count: 3;
+  column-count: 1;
   column-gap: 40px;
-  margin-top: 75px;
+  margin-top: 40px;
   background-color: white;
   text-align: center;
 
