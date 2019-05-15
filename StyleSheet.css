@@ -84,6 +84,11 @@ h6 {
   height: 300px;
   background-size: 600px;
 
+}
+
+h1, h2, h3 {
+  height: 400px;
+
 
 }
 
