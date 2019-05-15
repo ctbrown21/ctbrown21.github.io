@@ -23,7 +23,8 @@ body {
 
 .header {
   height: 400x;
-  box-sizing: border-box;  color: orange;
+  border: 5px;
+  color: pink;
   text-align: center;
   margin-top: 60px;
   background-color: grey;
