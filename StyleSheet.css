@@ -23,12 +23,15 @@ body {
   
 }
 
+.footer  {
+  margin-top: 200px;
+
+}
+
 
 h6 {
-  margin-top: 200px;
-  text-align: left
   float: right;
-
+  color: red;
 }
 
 
@@ -38,7 +41,7 @@ h6 {
   color: red;
 }
 
-.col,  {
+.col {
   margin-right:100px;
   background-color: red;
 }
