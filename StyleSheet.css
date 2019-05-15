@@ -35,9 +35,10 @@ h6 {
 .row: {
   margin-top: 100px;
   display: inline;
+  color: red;
 }
 
-.col1,  {
+.col,  {
   margin-right:100px;
   background-color: red;
 }
