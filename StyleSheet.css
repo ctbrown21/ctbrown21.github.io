@@ -62,7 +62,6 @@ h6 {
 .col1 {
   position: relative; 
   background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  background-size: cover;
   width: 300px
 
 
@@ -72,7 +71,6 @@ h6 {
 .col2 {
   position: relative;
   background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  background-size: cover;
   width: 300px
 
 
