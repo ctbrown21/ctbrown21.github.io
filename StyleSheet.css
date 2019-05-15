@@ -30,11 +30,11 @@ h1, h6 {
 
 .row: {
   display: inline-block;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .col {
-  margin-right:100px;
+  margin-right: 100px;
 }
 
 footer {
