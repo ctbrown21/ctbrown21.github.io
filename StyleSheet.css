@@ -23,7 +23,6 @@ body {
 
 .header {
   height: 400x;
-  width: 90%;
   color: black;
   text-align:center;
   margin-top:60px;
@@ -53,7 +52,7 @@ h6 {
 
 .row {
   margin-top: 200px;
-  color: black;
+  color: pink;
   background-color: white;
   display: inline;
   box-sizing: border-box;
