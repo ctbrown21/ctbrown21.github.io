@@ -23,6 +23,7 @@ body {
 
 .header {
   height: 400x;
+  width: 90%;
   border: 5px solid white;
   color: pink;
   text-align: center;
