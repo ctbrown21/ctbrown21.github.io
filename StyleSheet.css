@@ -19,10 +19,10 @@ body {
 
 .header {
   height: 400x;
-  border: 5px solid white;
+  border: 2px solid white;
   color: black;
   text-align: center;
-  margin-top: 90px;
+  margin-top: 80px;
   background-color: grey;
   font-size: 60px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
