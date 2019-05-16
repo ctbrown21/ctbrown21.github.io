@@ -6,6 +6,8 @@ html, body  {
 body {
   color: black;
   width: 600x;
+  text-align: center;
+
 
 
 }
@@ -74,7 +76,6 @@ h1, h2, h3 {
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 30px;
   margin-top: 140px;
-  text-align: center;
   list-style-type: none; 
   padding: 20px; 
   margin: 20px
