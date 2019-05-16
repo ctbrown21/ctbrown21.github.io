@@ -75,6 +75,9 @@ h1, h2, h3 {
   font-size: 30px;
   margin-top: 140px;
   text-align: center;
+  list-style-type: none; 
+  padding: 0px; 
+  margin: 0px
 
 
 }
