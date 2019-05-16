@@ -14,6 +14,7 @@ body {
   height: 400x;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 
 }
 
@@ -69,11 +70,10 @@ h6 {
 }
 
 h1, h2, h3 {
-  color: grey;
+  color: orange;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 30px;
   margin-top: 140px;
-  width: 200x;
   text-align: center;
 
 
