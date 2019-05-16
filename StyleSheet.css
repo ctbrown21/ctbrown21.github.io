@@ -67,6 +67,7 @@ h6 {
   background-size: 600px;
   display: flex;
   flex-flow: row wrap;
+  text-align: center;
 
 }
 
@@ -75,7 +76,6 @@ h1, h2, h3 {
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 30px;
   margin-top: 140px;
-  text-align: center;
 
 
 }
