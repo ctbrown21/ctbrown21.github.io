@@ -88,9 +88,14 @@ h1, h2, h3 {
 .footer {
   font-size: 20px;
   display: inline;
-  color: blue;
+  color: black;
   background-color: red;
+  height: 600x;
+  background-position: left;
+  background-size: 300px;
   width: 100%;
+  font-family: 'Courier New', Helvetica, sans-serif; 
+  position: absolute;
 }
 
 
