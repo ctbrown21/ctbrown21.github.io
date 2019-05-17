@@ -88,7 +88,7 @@ h1, h2, h3 {
 .footer {
   font-size: 20px;
   display: block;
-  color: grey;
+  color: black;
   background-color: red;
   height: 600x;
   background-position: left;
@@ -96,7 +96,6 @@ h1, h2, h3 {
   margin-left: 0px;
   width: 100%;
   font-family: 'Courier New', Helvetica, sans-serif; 
-  position: absolute;
 }
 
 
