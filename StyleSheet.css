@@ -15,8 +15,6 @@ body {
   height: 400x;
   margin-left: auto;
   margin-right: auto;
-  text-align: center; 
-
 
 }
 
@@ -34,29 +32,28 @@ body {
 }
 
 
+
 .row {
   column-count: 3;
   column-gap: 40px;
   margin-top: 70px;
   background-color: white;
-  height: 600px;
-  text-align: center; 
+  height: 400px;  
 
 }
 
 
 .col1, .col2, .col3 {
   background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  height: 500px;
+  height: 300px;
   background-size: 600px;
-  display: table;
+  display: flex;
   flex-flow: row wrap;
-  
 
 }
 
 h1, h2, h3 {
-  color: white;
+  color: orange;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 30px;
   margin-top: 140px;
