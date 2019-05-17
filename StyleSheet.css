@@ -48,14 +48,14 @@ body {
   background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
   height: 300px;
   background-size: 600px;
-  display: block;
+  display: table;
   flex-flow: row wrap;
   
 
 }
 
 h1, h2, h3 {
-  color: white;
+  color: grey;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 30px;
   margin-top: 140px;
