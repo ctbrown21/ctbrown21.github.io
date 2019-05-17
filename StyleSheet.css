@@ -66,7 +66,7 @@ h7  {
   height: 600px;  
   margin-bottom: 250px;
   overflow-wrap: normal;
-  display:block
+  text-align: right;
 
 }
 
@@ -124,8 +124,6 @@ h1 {
   margin: 20px
   text-align: right;
   font-weight: normal;
-  display:block
-
 }
 
 
@@ -139,7 +137,6 @@ h2  {
   margin: 20px
   text-align: center;
   font-weight: normal;
-  display:block
 }
 
 
@@ -147,7 +144,6 @@ h3  {
   color: black;
   font-family: 'corben', Helvetica, sans-serif; 
   font-size: 30px;
-  display:block
   margin-top: 65px;
   list-style-type: none; 
   padding: 20px; 
