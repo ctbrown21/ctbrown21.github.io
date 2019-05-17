@@ -94,16 +94,17 @@ h1, h2, h3 {
   background-position: left;
   background-size: 300px;
   margin-left: 0px;
-  width: 100%;
   font-family: 'Courier New', Helvetica, sans-serif; 
 }
 
 
 
 p1 {
+  text-align: left;
 }
 
 
 
 p2 {
+  tex-align: right;
 }
