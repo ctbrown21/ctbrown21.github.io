@@ -14,7 +14,7 @@ body {
 
 .header {
   height: 600x;
-  color: black;
+  color: white;
   background-image: url("https://image.freepik.com/free-photo/green-soft-pastel-concrete-wall-texture-background_34552-381.jpg");
   background-position: left;
   background-size: 300px;
@@ -22,8 +22,10 @@ body {
   font-size: 50px;
   text-align: left;
   font-family: 'corben', Helvetica, sans-serif; 
+  top: 0px;
   left: 0px;
   position: absolute;
+  margin-bottom: 100px;
 }
 
 
@@ -44,13 +46,12 @@ h7  {
 
 .header2  {
   height: 600x;
+  background-color: white;
   background-position: left;
   background-size: 300px;
   width: 100%;
-  top: 0px;
   left: 0px;
   position: absolute;
-  margin-bottom: 100px;
 }
 
 
