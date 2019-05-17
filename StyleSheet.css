@@ -36,7 +36,10 @@ h7  {
   margin-right: auto;
 }
 
-
+.title  {
+  margin-top: 70px;
+  font-size: 50px;
+}
 
 .row {
   column-count: 3;
