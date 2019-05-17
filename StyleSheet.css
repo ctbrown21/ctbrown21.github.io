@@ -95,6 +95,9 @@ h1, h2, h3 {
   background-size: 300px;
   margin-left: 0px;
   font-family: 'Courier New', Helvetica, sans-serif; 
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 
