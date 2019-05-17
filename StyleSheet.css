@@ -88,9 +88,10 @@ h1, h2, h3 {
 .footer {
   font-size: 20px;
   display: inline;
-  color: black;
+  color: grey;
   background-color: red;
   overflow: auto;
+  border-top: #red;
 }
 
 
