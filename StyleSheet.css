@@ -14,15 +14,15 @@ body {
 
 .header {
   height: 600x;
-  color: grey;
+  color: black;
   background-color: grey;
   background-size: 300px;
   width: 100%;
   font-size: 50px;
   text-align: left;
   font-family: 'Courier New', Helvetica, sans-serif; 
-  margin-top: none;
-  margin-left: none;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 
 
