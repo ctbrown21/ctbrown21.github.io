@@ -1,5 +1,7 @@
 html, body  {
   height: 100%;
+  background-image: url("https://previews.123rf.com/images/alicjane/alicjane1802/alicjane180200251/96431714-grey-background-of-stone-texture-with-blank-surface.jpg");
+
 
 }
 
@@ -7,8 +9,6 @@ body {
   color: black;
   width: 600x;
   text-align: center;
-  background-image: url("https://previews.123rf.com/images/alicjane/alicjane1802/alicjane180200251/96431714-grey-background-of-stone-texture-with-blank-surface.jpg");
-
 
 
 }
