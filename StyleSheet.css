@@ -1,17 +1,17 @@
 html, body  {
   height: 500px;
   background-image: url("https://previews.123rf.com/images/alicjane/alicjane1802/alicjane180200251/96431714-grey-background-of-stone-texture-with-blank-surface.jpg");
-
-
 }
+
+
 
 body {
   color: black;
   width: 600x;
   text-align: center;
-
-
 }
+
+
 
 .container {
   height: 400x;
@@ -29,25 +29,22 @@ body {
   margin-left: 0px;
   background-color: #383838;
   font-size: 70px;
-  font-family: 'Garamond', Helvetica, sans-serif;
-
-  
+  font-family: 'Garamond', Helvetica, sans-serif; 
 }
+
 
 h7  {
   margin-left: 50px;
   font-size: 40px;
-
-
-
 }
+
+
 
 .row {
   column-count: 3;
   column-gap: 40px;
   margin-top: 70px;
   height: 300px;  
-
 }
 
 
