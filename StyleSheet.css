@@ -14,7 +14,7 @@ body {
 
 .header {
   height: 600x;
-  color: black;
+  color: grey;
   background-image: grey;
   background-size: 300px;
   width: 100%;
@@ -81,7 +81,7 @@ footer  {
   font-size: 30px;
   display: inline;
   color: black;
-  height: 142px;
+  height: 200px;
 }
 
 
