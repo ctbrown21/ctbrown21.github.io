@@ -88,9 +88,9 @@ h1, h2, h3 {
 .footer {
   font-size: 20px;
   display: inline;
-  color: black;
+  color: blue;
   background-color: red;
-  height: 120px;
+  width: 100%;
 }
 
 
