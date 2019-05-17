@@ -25,6 +25,7 @@ body {
   top: 0px;
   left: 0px;
   position: absolute;
+  margin-bottom: 100px;
 
 }
 
@@ -55,7 +56,7 @@ h7  {
   column-gap: 20px;
   margin-top: 70px;
   height: 300px;  
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 
 }
 
@@ -85,12 +86,13 @@ h1, h2, h3 {
 
 
 footer  {
-  font-size: 30px;
+  font-size: 20px;
   display: inline;
   color: black;
   height: 200px;
   margin-top: 
   position: absolute;
+  background color
 }
 
 
