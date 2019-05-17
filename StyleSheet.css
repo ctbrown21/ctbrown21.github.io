@@ -105,11 +105,11 @@ h1, h2, h3 {
 
 
 p1 {
-  text-align: left;
+  float: left;
 }
 
 
 
 p2 {
-  text-align: right;
+  float: right;
 }
