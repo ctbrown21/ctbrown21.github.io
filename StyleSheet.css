@@ -56,6 +56,7 @@ h7  {
 
 }
 
+
 h1, h2, h3 {
   color: grey;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
@@ -68,21 +69,20 @@ h1, h2, h3 {
 
 
 .footer  {
-  margin-top: 400px;
+  margin-top: 600px;
   font-size: 30px;
   display: inline;
-  color: black;
-
-
-
+  color: blue;
 }
+
+
 
 p1 {
   float: left;
-
 }
+
+
 
 p2 {
   float: right;
-
 }
