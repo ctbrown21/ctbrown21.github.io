@@ -66,7 +66,9 @@ h7  {
   background-size: 1000px;
   display: flex;
   flex-flow: row wrap;
-  background-position: center
+  background-position: center;
+  margin-right: 20px;
+  margin-left: 20px;
 
 }
 
