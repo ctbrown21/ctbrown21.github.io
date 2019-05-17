@@ -7,7 +7,7 @@ body {
   color: black;
   width: 600x;
   text-align: center;
-  background-color: #8D619A;
+  background-color: #725979;
 
 }
 
@@ -76,7 +76,7 @@ h7  {
 
 h1, h2, h3 {
   color: black;
-  font-family: 'Arial', Helvetica, sans-serif; 
+  font-family: 'Courier New', Helvetica, sans-serif; 
   font-size: 30px;
   margin-top: 65px;
   list-style-type: none; 
@@ -91,7 +91,7 @@ h1, h2, h3 {
   font-size: 20px;
   display: block;
   color: black;
-  background-color: #725979;
+  background-color: #5E4C62;
   height: 600x;
   background-position: left;
   background-size: 300px;
