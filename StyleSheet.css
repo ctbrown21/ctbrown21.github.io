@@ -21,7 +21,7 @@ body {
   width: 100%;
   font-size: 50px;
   text-align: left;
-  font-family: 'Helvetica', Helvetica, sans-serif; 
+  font-family: 'times', Helvetica, sans-serif; 
   top: 0px;
   left: 0px;
   position: absolute;
@@ -76,7 +76,7 @@ h7  {
 
 h1, h2, h3 {
   color: black;
-  font-family: 'Helvetica', Helvetica, sans-serif; 
+  font-family: 'Times', Helvetica, sans-serif; 
   font-size: 30px;
   margin-top: 65px;
   list-style-type: none; 
@@ -96,7 +96,7 @@ h1, h2, h3 {
   background-position: left;
   background-size: 300px;
   margin-left: 0px;
-  font-family: 'Helvetica', Helvetica, sans-serif; 
+  font-family: 'times', Helvetica, sans-serif; 
   position: absolute;
   bottom: 0;
   width: 100%;
