@@ -2,7 +2,6 @@ html, body  {
   height: 500px;
   background-image: url("https://cdn.pixabay.com/photo/2017/09/07/08/54/money-2724241_1280.jpg");
   background-position: left;
-
 }
 
 body {
@@ -17,7 +16,6 @@ body {
   color: black;
   background-color: grey;
   background-position: left;
-  background-size: 300px;
   width: 100%;
   font-size: 50px;
   text-align: left;
