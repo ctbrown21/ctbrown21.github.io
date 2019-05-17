@@ -89,11 +89,9 @@ footer  {
   font-size: 20px;
   display: inline;
   color: black;
-  height: 200px;
   margin-top: 
   position: absolute;
   background-color: red;
-  background:inherit;
 }
 
 
