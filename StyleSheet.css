@@ -23,17 +23,22 @@ body {
 .header {
   height: 500x;
   border: 2px solid white;
-  color: white;
+  color: gold;
   text-align: left;
-  margin-left: 50px;
   margin-top: 30px;
-  background-color: gold;
+  background-color: white;
   font-size: 60px;
   font-family: 'Garamond', Helvetica, sans-serif;
 
   
 }
 
+h7  {
+  margin-left: 50px;
+
+
+
+}
 
 .row {
   column-count: 3;
