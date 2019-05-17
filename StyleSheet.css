@@ -14,8 +14,8 @@ body {
 
 .header {
   height: 600x;
-  color: black;
-  background-color: grey;
+  color: white;
+  background-color: #A9A9A9;
   background-position: left;
   background-size: 300px;
   width: 100%;
