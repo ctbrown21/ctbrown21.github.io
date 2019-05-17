@@ -49,6 +49,7 @@ body {
   background-size: 1000px;
   display: flex;
   flex-flow: row wrap;
+  background-position: center
 
 }
 
