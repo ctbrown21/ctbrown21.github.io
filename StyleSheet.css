@@ -55,6 +55,8 @@ h7  {
   column-gap: 40px;
   margin-top: 70px;
   height: 300px;  
+  margin-bottom: 50px;
+
 }
 
 
@@ -87,7 +89,6 @@ footer  {
   height: 200px;
   margin-top: 
   position: absolute;
-  margin-bottom: 10px;
 }
 
 
