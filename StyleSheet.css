@@ -78,10 +78,10 @@ h1, h2, h3 {
 
 
 footer  {
-  margin-top: 600px;
   font-size: 30px;
   display: inline;
-  color: blue;
+  color: black;
+  height: 142px;
 }
 
 
