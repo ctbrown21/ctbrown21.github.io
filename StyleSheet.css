@@ -16,6 +16,7 @@ body {
   height: 600x;
   color: black;
   background-color: grey;
+  background-position: left;
   background-size: 300px;
   width: 100%;
   font-size: 50px;
