@@ -58,6 +58,7 @@ h7  {
   margin-top: 120px;
   height: 300px;  
   margin-bottom: 150px;
+  overflow-wrap: normal;
 }
 
 
@@ -100,7 +101,7 @@ h7  {
 
 
 
-h1, h2, h3 {
+h1 {
   color: black;
   font-family: 'corben', Helvetica, sans-serif; 
   font-size: 30px;
@@ -108,10 +109,35 @@ h1, h2, h3 {
   list-style-type: none; 
   padding: 20px; 
   margin: 20px
-  text-align: center;
+  text-align: right;
   font-weight: normal;
 }
 
+
+h2  {
+  color: black;
+  font-family: 'corben', Helvetica, sans-serif; 
+  font-size: 30px;
+  margin-top: 65px;
+  list-style-type: none; 
+  padding: 20px; 
+  margin: 20px
+  text-align: right;
+  font-weight: normal;
+}
+
+
+h3  {
+  color: black;
+  font-family: 'corben', Helvetica, sans-serif; 
+  font-size: 30px;
+  margin-top: 65px;
+  list-style-type: none; 
+  padding: 20px; 
+  margin: 20px
+  text-align: right;
+  font-weight: normal;
+}
 
 .footer {
   font-size: 20px;
