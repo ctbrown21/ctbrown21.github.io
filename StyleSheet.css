@@ -7,7 +7,7 @@ body {
   color: black;
   width: 600x;
   text-align: center;
-  background-color: #725979;
+  background-image: url("https://www.pexels.com/photo/backgrounds-blank-blue-canvas-953214");
 
 }
 
@@ -61,8 +61,8 @@ h7  {
 }
 
 
-.col1, .col2, .col3 {
-  background-color: white;
+.col1 {
+  background-image: ("https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   height: 300px;
   background-size: 1000px;
   display: flex;
@@ -72,6 +72,32 @@ h7  {
   margin-left: 20px;
 
 }
+
+.col2 {
+  background-image: ("https://images.pexels.com/photos/34577/pexels-photo.jpg?cs=srgb&dl=black-friday-buy-credit-card-34577.jpg&fm=jpg");
+  height: 300px;
+  background-size: 1000px;
+  display: flex;
+  flex-flow: row wrap;
+  background-position: center;
+  margin-right: 20px;
+  margin-left: 20px;
+
+}
+
+
+.col3 {
+  background-image: white;
+  height: 300px;
+  background-size: 1000px;
+  display: flex;
+  flex-flow: row wrap;
+  background-position: center;
+  margin-right: 20px;
+  margin-left: 20px;
+
+}
+
 
 
 h1, h2, h3 {
