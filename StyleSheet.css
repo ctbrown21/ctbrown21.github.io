@@ -14,7 +14,7 @@ body {
 
 .header {
   height: 600x;
-  color: red;
+  color: black;
   background-color: grey;
   background-position: left;
   background-size: 300px;
@@ -33,7 +33,7 @@ h7  {
   margin-top: 100px;
   font-size: 30px;
   text-align: left;
-  left: 100px;
+  margin-left: 30px;
 }
 
 
