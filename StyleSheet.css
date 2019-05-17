@@ -26,6 +26,7 @@ body {
   color: gold;
   text-align: left;
   margin-top: 30px;
+  margin-left: 0px;
   background-color: white;
   font-size: 60px;
   font-family: 'Garamond', Helvetica, sans-serif;
@@ -45,7 +46,7 @@ h7  {
   column-gap: 40px;
   margin-top: 70px;
   background-color: white;
-  height: 400px;  
+  height: 1000px;  
 
 }
 
