@@ -7,7 +7,7 @@ body {
   color: black;
   width: 600x;
   text-align: center;
-  background-color: 2F37B9;
+  background-color: #2F37B9;
 
 }
 
@@ -37,13 +37,11 @@ h7  {
 }
 
 
-/* Add a black background color to the top navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #e9e9e9;
 }
 
-/* Style the links inside the navigation bar */
 .topnav a {
   float: left;
   display: block;
