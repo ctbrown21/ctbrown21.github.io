@@ -83,11 +83,11 @@ h1, h2, h3 {
 footer  {
   font-size: 30px;
   display: inline;
-  color: black;
+  color: red;
   height: 200px;
   margin-top: 
   position: absolute;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 
