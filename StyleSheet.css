@@ -15,7 +15,7 @@ body {
 .header {
   height: 600x;
   color: grey;
-  background-image: grey;
+  background-color: grey;
   background-size: 300px;
   width: 100%;
   font-size: 50px;
