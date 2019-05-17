@@ -93,6 +93,7 @@ footer  {
   margin-top: 
   position: absolute;
   background-color: red;
+  background:inherit;
 }
 
 
