@@ -1,5 +1,5 @@
 html, body  {
-  height: 800px;
+  height: 500px;
   background-image: url("https://previews.123rf.com/images/alicjane/alicjane1802/alicjane180200251/96431714-grey-background-of-stone-texture-with-blank-surface.jpg");
 
 
@@ -74,7 +74,7 @@ h1, h2, h3 {
 
 
 .footer  {
-  margin-top: 100px;
+  margin-top: 300px;
   font-size: 30px;
   display: inline;
   color: black;
