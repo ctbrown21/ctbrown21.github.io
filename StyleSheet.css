@@ -70,7 +70,7 @@ h7  {
 
 .col1 {
   background-image: url("https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  height: 500px;
+  height: 400px;
   background-size: 1000px;
   display: flex;
   flex-flow: row wrap;
@@ -83,7 +83,7 @@ h7  {
 
 .col2 {
   background-image: url("https://images.pexels.com/photos/34577/pexels-photo.jpg?cs=srgb&dl=black-friday-buy-credit-card-34577.jpg&fm=jpg");
-  height: 500px;
+  height: 400px;
   background-size: 1000px;
   display: flex;
   flex-flow: row wrap;
@@ -97,7 +97,7 @@ h7  {
 
 .col3 {
   background-image: url("https://images.pexels.com/photos/128867/coins-currency-investment-insurance-128867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  height: 600px;
+  height: 400px;
   background-size: 1000px;
   display: flex;
   flex-flow: row wrap;
