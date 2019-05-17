@@ -85,6 +85,9 @@ footer  {
   display: inline;
   color: black;
   height: 200px;
+  margin-top: 
+  position: absolute;
+  bottom: 0px;
 }
 
 
