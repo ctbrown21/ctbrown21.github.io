@@ -75,10 +75,10 @@ h7  {
 
 
 h1, h2, h3 {
-  color: black;
+  color: grey;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 30px;
-  margin-top: 110px;
+  margin-top: 60px;
   list-style-type: none; 
   padding: 20px; 
   margin: 20px
