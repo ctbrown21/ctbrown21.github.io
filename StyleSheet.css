@@ -16,7 +16,7 @@ body {
   color: black;
   background-color: grey;
   background-position: left;
-  position:absolute;
+  background-size: 300px;
   width: 100%;
   font-size: 50px;
   text-align: left;
