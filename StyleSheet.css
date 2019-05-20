@@ -13,7 +13,6 @@ body {
   text-align: center;
   overflow: hidden;
   background-color: #f7eef1;
-
 }
 
 
@@ -30,8 +29,8 @@ body {
   top: 0px;
   left: 0px;
   position: absolute;
-  margin-bottom: 100px;
 }
+
 
 .title  {
 
