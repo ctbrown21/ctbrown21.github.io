@@ -34,8 +34,9 @@ body {
 
 .title  {
 
-
 }
+
+
 
 .container {
   height: 400x;
@@ -43,3 +44,9 @@ body {
   margin-right: auto;
 }
 
+
+.nav  {
+  color: #8585ad;
+  text-align: left; 
+
+}
