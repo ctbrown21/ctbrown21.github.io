@@ -77,22 +77,22 @@ body {
 
 
 .box1 {
-  align: top-left;
+  float: top-left;
 }
 
 
 .box2 {
-  align: top-right;
+  float: top-right;
 }
 
 
 .box3 {
-  align: bottom-left;
+  float: bottom-left;
 }
 
 
 .box4 {
-  align: bottom-right;
+  float: bottom-right;
 }
 
 
