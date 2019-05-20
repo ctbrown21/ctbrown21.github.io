@@ -78,13 +78,14 @@ body {
 
 
 .box1 {
-  float: top-left;
+  margin-bottom: 200px;
+  margin-right: 200px;
+
 }
 
 
 .box2 {
-  margin-bottom: 200px;
-  margin-right: 200px;
+
 }
 
 
