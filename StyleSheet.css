@@ -66,12 +66,14 @@ body {
   color: #818181;
   display: block; 
   text-align: left;
+  width: 20%;
 
 }
 
 
 .sidenav a:hover {
   color: #black;
+  width: 20%;
 }
 
 
