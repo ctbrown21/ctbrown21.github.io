@@ -78,6 +78,8 @@ body {
 
 
 .box1 {
+  width: 400px;
+  height: 400px;
   position: absolute;
   left:0;
   top:0;
