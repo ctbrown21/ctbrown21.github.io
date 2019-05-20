@@ -50,7 +50,7 @@ body {
   width: 160px;
   position: relative; 
   z-index: 1;
-  top: 0;
+  top: 20;
   left: 0;
   background-color: black;
   padding-top: 20px;
