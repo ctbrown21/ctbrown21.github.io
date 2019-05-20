@@ -38,7 +38,7 @@ body {
 
 
 
-.container {
+.content {
   margin-left: 160px;
   padding: 0px 10px;
 }
@@ -74,6 +74,27 @@ body {
 .sidenav a:hover {
   color: #black;
 }
+
+
+.box1 {
+  align: top-left;
+}
+
+
+.box2 {
+  align: top-right;
+}
+
+
+.box3 {
+  align: bottom-left;
+}
+
+
+.box4 {
+  align: bottom-right;
+}
+
 
 
 h1  {
