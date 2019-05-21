@@ -90,13 +90,13 @@ body {
 .box3 {
   color: #818181;
   position: absolute;
-  right: 200px;
-  bottom: 120px;
+  right: 300px;
+  bottom: 140px;
 }
 
 p  {
   font-size: 30px;
-  margin: 1px;
+  margin: 2px;
 }
 
 h1  {
