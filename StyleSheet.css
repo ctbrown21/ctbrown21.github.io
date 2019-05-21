@@ -65,14 +65,14 @@ body {
   color: #818181;
   display: block; 
   text-align: left;
-  width: 10%;
+  width: 100%;
 
 }
 
 
 .topnav a:hover {
   color: #black;
-  width: 10%;
+  width: 100%;
 }
 
 
