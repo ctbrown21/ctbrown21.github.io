@@ -53,14 +53,13 @@ body {
   position: relative; 
   z-index: 1;
   top: 0;
-  padding: 20px  30px  10px  30px;
   text-align: center;
   display: flex;
 }
 
 
 .topnav a {
-  padding: 6px 8px 30px 16px;
+  padding: 20px  30px  10px  30px;
   text-decoration: none;
   font-size: 25px;
   color: #818181;
