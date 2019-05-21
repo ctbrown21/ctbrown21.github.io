@@ -84,7 +84,7 @@ body {
   left: 200px;
   bottom: 60px;
   float: left;
-  position: relative;
+  position: flex;
 
 }
 
@@ -93,7 +93,7 @@ body {
   right: 300px;
   bottom: 160px;
   float: right;
-  position: relative;
+  position: flex;
 
 }
 
