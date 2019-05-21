@@ -38,11 +38,6 @@ body {
 
 }
 
-.content {
-  margin-left: 160px;
-  padding: 0px 10px;
-}
-
 
 .topnav  {
   color: white;
@@ -76,10 +71,16 @@ body {
 }
 
 
+.content {
+  margin-left: 160px;
+  padding: 0px 10px;
+}
+
+
 .box1 {
   position: absolute;
-  left:280px;
-  top:280px;
+  left: 0px;
+  bottom: 280px;
 
 }
 
