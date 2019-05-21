@@ -77,20 +77,16 @@ body {
 
 
 .box1 {
-  position: absolute;
-  left: 0px;
-  bottom: 0px;
 
 }
 
 
 .box2 {
-  right: 300px;
-  top: 70px;
   color: #818181;
   position: absolute;
+  left: 0px;
+  bottom: 0px;
 }
-
 
 .box3 {
   bottom: 70px;
