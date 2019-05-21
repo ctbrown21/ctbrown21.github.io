@@ -69,6 +69,8 @@ body {
 
 
 .content {
+  height: 90%;
+
 }
 
 
@@ -79,14 +81,14 @@ body {
 
 .box2 {
   color: #818181;
-  position: fixed;
+  position: absolute;
   left: 200px;
   bottom: 60px;
 }
 
 .box3 {
-  color: #black;
-  position: fixed;
+  color: #818181;
+  position: absolute;
   right: 300px;
   bottom: 160px;
 }
