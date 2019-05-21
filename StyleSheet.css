@@ -70,7 +70,6 @@ body {
 
 .content {
   height: 90%;
-  position: absolute;
 
 }
 
@@ -82,20 +81,18 @@ body {
 
 .box2 {
   color: #818181;
+  position: absolute;
   left: 200px;
-  bottom: 0px;
+  bottom: 60px;
   float: left;
-  position: flex;
-
 }
 
 .box3 {
   color: #818181;
+  position: absolute;
   right: 300px;
   bottom: 160px;
   float: right;
-  position: flex;
-
 }
 
 p  {
