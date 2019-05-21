@@ -53,9 +53,8 @@ body {
   position: relative; 
   z-index: 1;
   top: 0;
-  left: 0;
   padding: 20px  30px  10px  30px;
-  text-align: left;
+  text-align: center;
   display: flex;
 }
 
