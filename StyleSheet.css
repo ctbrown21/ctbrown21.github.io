@@ -28,6 +28,7 @@ body {
   font-family: 'Corben', Helvetica, sans-serif; 
   top: 0px;
   left: 0px;
+  position: absolute;
 }
 
 
