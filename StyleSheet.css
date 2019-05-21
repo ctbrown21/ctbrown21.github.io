@@ -46,23 +46,21 @@ body {
 }
 
 
-.nav  {
-  color: #8585ad;
+.topnav  {
+  color: #;
   height: 100%;
   width: 10%;
   position: relative; 
   z-index: 1;
-  top: 260;
+  top: 0;
   left: 0;
-  background-color: black;
   padding-top: 20px;
   text-align: left;
-  float: left;
   display: flex;
 }
 
 
-.sidenav a {
+.topnav a {
   padding: 6px 8px 30px 16px;
   text-decoration: none;
   font-size: 25px;
@@ -74,7 +72,7 @@ body {
 }
 
 
-.sidenav a:hover {
+.topnav a:hover {
   color: #black;
   width: 10%;
 }
