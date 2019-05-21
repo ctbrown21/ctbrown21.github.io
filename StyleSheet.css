@@ -80,10 +80,12 @@ body {
 
 
 .box2 {
-  color: black;
+  color: #818181;
   left: 200px;
   bottom: 60px;
   float: left;
+  position: relative;
+
 }
 
 .box3 {
@@ -91,6 +93,8 @@ body {
   right: 300px;
   bottom: 160px;
   float: right;
+  position: relative;
+
 }
 
 p  {
