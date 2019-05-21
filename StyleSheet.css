@@ -84,8 +84,8 @@ body {
 .box2 {
   color: #818181;
   position: absolute;
-  left: 220px;
-  bottom: 220px;
+  left: 200px;
+  bottom: 150px;
 }
 
 .box3 {
@@ -95,5 +95,5 @@ body {
 
 
 h1  {
-   font-size: 190px;
+   font-size: 160px;
 }
