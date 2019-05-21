@@ -88,8 +88,8 @@ body {
 
 
 .box2 {
-  right: 0px;
-  top: 0px;
+  right: 200px;
+  top: 120px;
   color: #818181;
   padding: 0px 0px 0px 0px;
   position: absolute;
@@ -99,12 +99,16 @@ body {
 .box3 {
   bottom: 70px;
   left: 280px;
+  position: absolute;
+
 }
 
 
 .box4 {
   bottom: 70px;
   right: 50px;
+  position: absolute;
+
 }
 
 
