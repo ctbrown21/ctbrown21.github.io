@@ -28,7 +28,6 @@ body {
   font-family: 'Corben', Helvetica, sans-serif; 
   top: 0px;
   left: 0px;
-  position: absolute;
 }
 
 
@@ -80,8 +79,7 @@ body {
 
 
 .box2 {
-  color: #818181;
-  position: absolute;
+  color: black;
   left: 200px;
   bottom: 60px;
   float: left;
@@ -89,7 +87,6 @@ body {
 
 .box3 {
   color: #818181;
-  position: absolute;
   right: 300px;
   bottom: 160px;
   float: right;
