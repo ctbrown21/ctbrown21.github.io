@@ -92,7 +92,9 @@ body {
 
 }
 
-
+p  {
+  font-size: 50px;
+}
 
 h1  {
    font-size: 80px;
