@@ -38,8 +38,6 @@ body {
 
 }
 
-
-
 .content {
   margin-left: 160px;
   padding: 0px 10px;
@@ -65,8 +63,9 @@ body {
   font-size: 18px;
   color: #818181;
   display: block; 
-  text-align: left;
+  text-align: center;
   width: 100%;
+
 
 }
 
