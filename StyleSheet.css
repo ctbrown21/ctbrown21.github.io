@@ -61,7 +61,6 @@ body {
   text-align: center;
   width: 100%;
 
-
 }
 
 
@@ -89,12 +88,15 @@ body {
 }
 
 .box3 {
-
+  color: #818181;
+  position: absolute;
+  right: 200px;
+  bottom: 60px;
 }
 
 p  {
   font-size: 30px;
-  margin:0;
+  margin:2;
 }
 
 h1  {
