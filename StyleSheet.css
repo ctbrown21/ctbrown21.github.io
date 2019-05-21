@@ -70,6 +70,7 @@ body {
 
 .content {
   height: 90%;
+  position: absolute;
 
 }
 
