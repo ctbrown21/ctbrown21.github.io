@@ -1,3 +1,15 @@
+@media only screen and (max-width: 768px) {
+  b {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  b {
+    font-size: 10px;
+  }
+}
+
 html, body  {
   height: 100%;
   margin: auto;
@@ -85,8 +97,8 @@ body {
   left: 140px;
   bottom: -50px;
   display:block;
-	width:100%;
-	margin:auto;
+  width:100%;
+  margin:auto;
 }
 
 p  {
