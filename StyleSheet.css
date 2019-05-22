@@ -93,13 +93,6 @@ body {
 }
 
 
-@media (max-width: 992px) {
-    body.splash-page {
-    font-size: 40% !important;
-    }
-}
-
-
 p  {
   font-size: 30px;
   margin-top: 10px;
