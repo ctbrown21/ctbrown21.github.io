@@ -16,6 +16,54 @@ body {
 }
 
 
+
+.header {
+  background-color: #D0D0D0;
+  color: #D0D0D0;
+  background-position: left;
+  background-size: 300px;
+  width: 100%;
+  font-size: 40px;
+  text-align: left;
+  font-family: 'Corben', Helvetica, sans-serif; 
+  top: 0px;
+  left: 0px;
+  position: absolute;
+}
+
+
+.topnav  {
+  color: white;
+  height: 10%;
+  width: 100%;
+  position: relative; 
+  z-index: 1;
+  top: 0;
+  text-align: center;
+  display: flex;
+  font-family: Bookman, Georgia, serif;
+}
+
+
+.topnav a {
+  padding: 20px  30px  10px  30px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #818181;
+  display: block; 
+  text-align: center;
+  width: 100%;
+
+}
+
+
+.topnav a:hover {
+  color: #black;
+  width: 100%;
+}
+
+
+
 .content  {
   background-color: #F2F3F4;
   width: 75%;
