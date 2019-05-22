@@ -11,7 +11,9 @@ body {
   background-image: url("https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
   background-repeat:no-repeat;
   background-attachment: fixed;
-  display: flex;
+  display: block;
+  width: 100%;
+  margin: auto;
  
 }
 
@@ -75,11 +77,6 @@ body {
 
 
 .box1 {
-
-}
-
-
-.box2 {
   color: #818181;
   position: absolute;
   left: 200px;
@@ -87,7 +84,7 @@ body {
   float: left;
 }
 
-.box3 {
+.box2 {
   color: #818181;
   position: absolute;
   right: 300px;
