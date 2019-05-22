@@ -14,12 +14,10 @@ body {
   display: block;
   width: 100%;
   margin: auto;
- 
 }
 
 
 .header {
-  height: 10%;
   background-color: #D0D0D0;
   color: #D0D0D0;
   background-position: left;
@@ -33,10 +31,6 @@ body {
   position: absolute;
 }
 
-
-.title  {
-
-}
 
 
 .topnav  {
@@ -71,25 +65,30 @@ body {
 
 
 .content {
-  height: 90%;
-
+  display:block;
+	width:80%;
+	margin:auto;
 }
 
 
 .box1 {
   color: #818181;
   position: absolute;
-  left: 200px;
-  bottom: 60px;
-  float: left;
+  left: -200px;
+  bottom: 50px;
+  display:block;
+	width:80%;
+	margin:auto;
 }
 
 .box2 {
   color: #818181;
   position: absolute;
-  right: 300px;
+  right: 00px;
   bottom: 160px;
-  float: right;
+  display:block;
+	width:80%;
+	margin:auto;
 }
 
 p  {
