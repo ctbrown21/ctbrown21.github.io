@@ -1,7 +1,7 @@
- html, body  {
+html, body  {
   background-position: absolute;
-}
 
+}
 
 body {
   color: black;
@@ -11,13 +11,13 @@ body {
   background-image: url("https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
   background-repeat:no-repeat;
   background-attachment: fixed;
-  width:100%;
-  margin:auto; 
+  display: flex;
+ 
 }
 
 
-
 .header {
+  height: 10%;
   background-color: #D0D0D0;
   color: #D0D0D0;
   background-position: left;
@@ -29,6 +29,11 @@ body {
   top: 0px;
   left: 0px;
   position: absolute;
+}
+
+
+.title  {
+
 }
 
 
@@ -63,22 +68,39 @@ body {
 }
 
 
-.content  {
+.content {
   height: 90%;
-  background-color: #F2F3F4;
-  width: 75%;
-  background-align: center;
-  margin-left: 200px;
- 
+
 }
 
-.header2  {
-  font-size: 20px;
+
+.box1 {
+
+}
+
+
+.box2 {
   color: black;
-
+  position: absolute;
+  left: 200px;
+  bottom: 60px;
+  float: left;
 }
 
-ul  {
-  text-align: left;
+.box3 {
+  color: #818181;
+  position: absolute;
+  right: 300px;
+  bottom: 160px;
+  float: right;
+}
 
+p  {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1  {
+   font-size: 105px;
 }
