@@ -11,9 +11,8 @@ body {
   background-image: url("https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
   background-repeat:no-repeat;
   background-attachment: fixed;
-  display: block;
-  width: 100%;
-  margin: auto;
+  width:100%;
+  margin:auto; 
 }
 
 
@@ -31,6 +30,10 @@ body {
   position: absolute;
 }
 
+
+.title  {
+
+}
 
 
 .topnav  {
@@ -65,31 +68,39 @@ body {
 
 
 .content {
-  display:block;
-	width:80%;
-	margin:auto;
+  height: 90%;
+
 }
 
 
 .box1 {
   color: #818181;
   position: absolute;
-  left: -200px;
-  bottom: 50px;
+  left: -230px;
+  bottom: 60px;
   display:block;
-	width:80%;
+	width:90%;
 	margin:auto;
 }
 
 .box2 {
   color: #818181;
   position: absolute;
-  right: 00px;
+  right: -100px;
   bottom: 160px;
   display:block;
-	width:80%;
-	margin:auto;
+  width:90%;
+  margin:auto;
+
 }
+
+
+@media (max-width: 992px) {
+    body.splash-page {
+    font-size: 40% !important;
+    }
+}
+
 
 p  {
   font-size: 30px;
