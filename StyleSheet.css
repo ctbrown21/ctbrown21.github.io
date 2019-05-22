@@ -1,10 +1,7 @@
-
-
-
-html, body  {
+ html, body  {
   background-position: absolute;
-
 }
+
 
 body {
   color: black;
@@ -17,6 +14,7 @@ body {
   width:100%;
   margin:auto; 
 }
+
 
 
 .header {
@@ -65,40 +63,22 @@ body {
 }
 
 
-.content {
+.content  {
   height: 90%;
+  background-color: #F2F3F4;
+  width: 75%;
+  background-align: center;
+  margin-left: 200px;
+ 
+}
+
+.header2  {
+  font-size: 20px;
+  color: black;
 
 }
 
+ul  {
+  text-align: left;
 
-.box1 {
-  color: #818181;
-  position: absolute;
-  left: -230px;
-  bottom: 60px;
-  display:block;
-  width:90%;
-  margin:auto;
-}
-
-.box2 {
-  color: #818181;
-  position: absolute;
-  right: -100px;
-  bottom: 160px;
-  display:block;
-  width:90%;
-  margin:auto;
-
-}
-
-
-p  {
-  font-size: 30px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-h1  {
-   font-size: 105px;
 }
