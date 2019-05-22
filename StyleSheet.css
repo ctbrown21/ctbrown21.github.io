@@ -73,18 +73,18 @@ body {
 .box1 {
   color: #818181;
   position: relative;
-  left: -200px;
+  left: -290px;
   bottom: -300px;
   display:block;
-	width:100%;
+  width:100%;
 	margin:auto;
 }
 
 .box2 {
   color: #818181;
   position: relative;
-  left: 200px;
-  bottom: -10px;
+  left: 140px;
+  bottom: -50px;
   display:block;
 	width:100%;
 	margin:auto;
