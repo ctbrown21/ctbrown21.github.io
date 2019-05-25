@@ -34,7 +34,6 @@ body {
 
 .topnav  {
   color: white;
-  height: 10%;
   width: 100%;
   position: relative; 
   z-index: 1;
@@ -64,7 +63,6 @@ body {
 
 
 .content  {
-  height: 90%;
   background-color: #F2F3F4;
   width: 75%;
   background-align: center;
