@@ -10,6 +10,13 @@
   }
 }
 
+
+@media only screen and (width: 320px-768px) {
+  b {
+    font-size: 15px;
+  }
+}
+
 html, body  {
   height: 100%;
   margin: auto;
